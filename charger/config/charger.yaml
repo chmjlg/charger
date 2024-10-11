@@ -1,0 +1,7 @@
+/**:
+    charger_node:
+      ros__parameters:
+        goal_x: 0.0
+        goal_y: 0.0
+        box_length: 2.0
+        box_width: 2.0
